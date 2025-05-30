@@ -7,4 +7,10 @@
 
 # 編譯環境
 
-需要安裝 EasyX：[https://easyx.cn](https://easyx.cn)
+需要安裝 EasyX：https://easyx.cn
+
+# 素材來源
+
+https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
+
+https://zerie.itch.io/tiny-rpg-character-asset-pack
