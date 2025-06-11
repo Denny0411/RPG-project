@@ -52,3 +52,7 @@ https://zerie.itch.io/tiny-rpg-character-asset-pack
 https://soundeffect-lab.info/
 
 https://www.tam-music.com/
+
+## UML
+
+![image](https://github.com/Denny0411/project_survivors/blob/master/UML.jpg)
