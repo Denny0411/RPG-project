@@ -33,6 +33,8 @@ https://easyx.cn/
 
 編譯後，exe 執行檔需與 image 資料夾和 music 資料夾放在同一根目錄，方可正常執行。
 
+下載 ProjectSurvivors_0606.7z 後解壓縮，開啟 ProjectSurvivors.exe，即可執行。
+
 ## 本專案參考的教學
 
 https://space.bilibili.com/25864506/lists/3183521?type=season
