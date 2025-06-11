@@ -56,3 +56,7 @@ https://www.tam-music.com/
 ## UML
 
 ![image](https://github.com/Denny0411/project_survivors/blob/master/UML.jpg)
+
+## 簡報連結
+
+https://docs.google.com/presentation/d/1v4CG-cuW9_KrK-c3S2CsxoEMdLqfqRhbACoZ8XpMK9E/edit?usp=sharing
