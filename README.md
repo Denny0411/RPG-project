@@ -13,9 +13,12 @@
 程式如何安裝執行：請參考編譯環境
 
 運行畫面截圖：
+![image](https://github.com/Denny0411/project_survivors/blob/master/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96.png)
 
 分工資訊：
+
 花偉喆：程式設計、撰寫；簡報製作；報告
+
 戴佑全：XML 圖製作
 
 ## 遊戲運行畫面
